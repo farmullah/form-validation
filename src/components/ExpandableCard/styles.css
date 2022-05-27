@@ -1,0 +1,17 @@
+.expandablecard {
+    /* width: 100%; */
+    background: #fff;
+    border-radius: 6px;
+    padding: 10px 5px;
+    margin-top: 10px;
+}
+.expandablecard__header {
+    background: #dedede;
+    padding: 5px 10px;
+    color: #000;
+    font-size: 14px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+}

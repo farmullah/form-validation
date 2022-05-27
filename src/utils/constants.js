@@ -1,0 +1,25 @@
+export const errorMessages = {
+  desiredUsername: "Enter the desired username",
+  invalidDesiredUsernameLength:
+    "Desired username should not be more than 20 characters.",
+  invalidDesiredUsername: "Desired username should not contains special chars.",
+  choosePassword: "Enter the password",
+  invalidPasswordLength: "Password should contains 8 to 20 characters.",
+  invalidPassword:
+    "Password should contains atleast 1 uppercase, 1 lowercase character, 1 number and special chars out of ! @ # $ ^ & * ~",
+  invalidPasswordWhiteSpace: "Password should not contain white space",
+  name: "Enter the name",
+  invalidName: "Name should contains a-z, A-Z along with space",
+  postalZipCode: "Enter the postal zip code",
+  invalidPostalZipCode: "Invalid postal zip code",
+  invalidArea: "Invalid area",
+  contactNumber: "Enter the contact number",
+  invalidContactNumber: "Invalid contact number",
+  emailAddress: "Enter the email address",
+  invalidEmailAddress: "Invalid email address",
+  gender: "Please select the gender",
+  invalidGender: "Invalid gender",
+  image: "Please select the image",
+  invalidImage: "Only *.jpg, *.png, *.gif are allowed",
+  age: "Please select the age",
+};
